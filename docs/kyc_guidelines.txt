@@ -1,0 +1,25 @@
+LOANDESK FINANCIAL - KYC AND VERIFICATION GUIDELINES (Version 2.1)
+
+1. MANDATORY KYC DOCUMENTS
+Every applicant must provide: a valid Emirates ID (physical or digital), a valid passport with UAE residence visa page, and a recent utility bill or tenancy contract as proof of address, not older than 3 months.
+
+2. IDENTITY VERIFICATION PROCESS
+Emirates ID is verified against the Federal Authority database. The name on the Emirates ID, passport, and bank account must match exactly. Minor spelling variations require a manual review by the compliance team.
+
+3. DOCUMENT QUALITY RULES
+Uploaded documents must be clear, in color, and show all four corners. Blurred, cropped, or black-and-white copies are automatically rejected by the OCR system and the applicant is asked to re-upload.
+
+4. OCR VERIFICATION
+The system extracts name, date of birth, ID number, and expiry date using OCR. If OCR confidence falls below 85 percent, the document goes to the manual verification queue. Manual verification takes up to 1 business day.
+
+5. EXPIRED DOCUMENTS
+Applications with an Emirates ID or passport expiring within 30 days are placed on hold until renewed documents are submitted.
+
+6. KYB FOR SELF-EMPLOYED
+Self-employed applicants undergo Know Your Business checks: valid trade license verification, Memorandum of Association review, and verification that the applicant is a listed owner or partner holding at least 25 percent share.
+
+7. SANCTIONS AND AML SCREENING
+All applicants are screened against international sanctions lists and local AML watchlists. Any match places the application on immediate hold pending compliance review. Compliance decisions are final.
+
+8. DATA HANDLING
+All KYC documents are stored encrypted. Access is restricted to authorized verification staff and is fully audit logged. Documents are retained for 5 years after loan closure as per regulation.

@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Virtualenv
+venv/
+
+# Chroma vector store (rebuildable: python rag_pipeline.py)
+loandesk_db/
+
+# Python
+__pycache__/
+*.py[cod]

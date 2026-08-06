@@ -1,0 +1,31 @@
+LOANDESK FINANCIAL - CUSTOMER FAQ
+
+Q: How long does loan approval take?
+A: Most applications are decided within 24 hours if all documents are clear. If your documents go to manual verification, add 1 business day.
+
+Q: When will I receive my money?
+A: Disbursal happens within 48 hours of final approval, directly to your registered bank account.
+
+Q: Can I apply if I just started a new job?
+A: You need at least 6 months with your current employer. If you recently switched jobs, you can apply after completing 6 months.
+
+Q: What is the minimum salary to apply?
+A: AED 8,000 per month for salaried applicants. Self-employed applicants need an average monthly income of AED 15,000.
+
+Q: Why was my document rejected?
+A: The most common reasons are blurred images, cropped edges, or black-and-white copies. Please upload a clear color photo showing all four corners.
+
+Q: Can I pay off my loan early?
+A: Yes. An early settlement fee of 1 percent of the outstanding amount applies, capped at AED 10,000.
+
+Q: My Emirates ID expires next month. Can I still apply?
+A: Applications with documents expiring within 30 days are placed on hold. Please renew your Emirates ID first, then apply.
+
+Q: Do you offer loans to self-employed people?
+A: Yes. You will need a valid trade license, audited financials for 2 years, and you must own at least 25 percent of the business.
+
+Q: What happens if I miss a payment?
+A: A payment is late after 5 days past the due date. Three consecutive missed payments move the loan to collections. Contact support early if you expect payment difficulty.
+
+Q: Is my data safe?
+A: All documents are stored encrypted with restricted, audit-logged access, and retained for 5 years after loan closure as regulation requires.
